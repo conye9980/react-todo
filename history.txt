@@ -1,0 +1,500 @@
+    2      color: #fff;
+    3  }
+    4  .s-font-16 {
+    5  }
+    6  .s-font-28 {
+    7  }
+    8  .s-margin-bottom-5 {
+    9  }
+   10  .s-font-14 {
+   11  }
+   12  /*----- SIDEBAR DROPDOWN --- */
+   13  .bg-custom-1 {
+   14      background-color: #85144b;
+   15    }
+   16    
+   17    .bg-custom-2 {
+   18    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+   19    }
+   20    .dropdown-menu {
+   21  clear
+   22  git clone repo https://github.com/GroupDigitalHub/il-cb-project.git
+   23  git clone https://github.com/GroupDigitalHub/il-cb-project.git
+   24  compass watch
+   25  git pull
+   26  compass watch
+   27  git pull
+   28  git branch covid
+   29  git checkout covid
+   30  git add .
+   31  git commit -m "Banner change for COVID-19"
+   32  git push origin covid
+   33  git checkout master
+   34  git merge covid
+   35  git status
+   36  git branch tester
+   37  git checkout tester
+   38  git add .
+   39  git push origin tester
+   40  git checkout master
+   41  git merge tester
+   42  git checkout tester
+   43  git add .
+   44  git status
+   45  git push origin tester
+   46  git commit -m  "Tester"
+   47  git push origin tester
+   48  git checkout master
+   49  git merge tester
+   50  git branch code-clean
+   51  git checkout code-clean
+   52  git add .
+   53  git commit -m "Cleaning up code"
+   54  git push origin code-clean
+   55  git checkout master
+   56  git merge code-clean
+   57  git status
+   58  git branch dashboard-work
+   59  git checkout dashboard-work
+   60  git add .
+   61  git commit -m "Work on the dashboard"
+   62  git push origin dashboard-work
+   63  git checkout master
+   64  git merge dashboard-work
+   65  git branch responsive
+   66  git checkout responsive
+   67  git add .
+   68  git commit -m "Work done on making the dashboard responsive"
+   69  git push origin responsive
+   70  git checkout master
+   71  git merge responsive
+   72  git branch modify
+   73  git checkout modify
+   74  git add .
+   75  git commit -m "Changes to final run at Modify"
+   76  git push origin modify
+   77  git branch
+   78  git add .
+   79  git commit -m "Further work on side bar and profile box"
+   80  git push origin modify
+   81  git branch
+   82  git add .
+   83  git commit -m "Slider work"
+   84  got push origin modify
+   85  git push origin modify
+   86  git add .
+   87  git commit -m "Alignment issues on sliders for mobile"
+   88  git push origin modify
+   89  git branch
+   90  git status
+   91  git add .
+   92  git commit -m "Modify code clean up - adding comments"
+   93  git push origin modify
+   94  git checkout master
+   95  git merge modify
+   96  code --disable-extensions
+   97  git status
+   98  git init
+   99  git status
+  100  git branch clean-up
+  101  git checkout clean-up
+  102  git branhc
+  103  git branch
+  104  git checkout clean-up
+  105  git branch
+  106  git checkout clean-up
+  107  git status
+  108  git init
+  109  git checkout clean-up
+  110  git init
+  111  git status
+  112  git branch clean-up
+  113  git branch
+  114  git remote add origin https://github.com/GroupDigitalHub/il-cb-project.git
+  115  git status
+  116  git branch clean-up
+  117  git branch
+  118  git add .
+  119  git push origin clean-up
+  120  git push origin card-tt
+  121  git fetch origin
+  122  git branch x
+  123  git status
+  124  git status
+  125  git branch clean-up
+  126  git checkout clean-uo
+  127  git checkout clean-up
+  128  git add .
+  129  git commit -m "clean up"
+  130  git add .
+  131  git commit -m "clean up"
+  132  git push origin clean-uo
+  133  git push origin clean-up
+  134  git branch clean-up
+  135  git branch clean-up -d
+  136  git branch clean
+  137  git checkout clean
+  138  git status
+  139  git add .
+  140  git commit -m "Cleaning up"
+  141  git push origin clean
+  142  git checkout master
+  143  git merge clean
+  144  git status
+  145  git branch device-work
+  146  git checkout device-work
+  147  git add .
+  148  git commit -m "Work on the ipad dimensions"
+  149  git push origin device-work
+  150  git checkout master
+  151  git merge device-work
+  152  git branch mobile-modal
+  153  git checkout mobile-modal
+  154  git add .
+  155  git commit -m "Work on responsive modal"
+  156  git push origin mobile-modal
+  157  git checkout master
+  158  git merge mobile-modal
+  159  create-react-app testing
+  160  cd testing/
+  161  yarn start
+  162  cd ravenous/ravenous/
+  163  yarn start
+  164  yarn start
+  165  cd ravenous/ravenous/
+  166  yarn start
+  167  git checkout master
+  168  git pull
+  169  git status
+  170  git branch tax-start
+  171  git checkout tax-start
+  172  git add .
+  173  git commit -m "Beginning of the Tax Tool development"
+  174  git push origin tax-start
+  175  git checkout master
+  176  git merge tax-start
+  177  mkdir util
+  178  cd util/
+  179  touch Yelp.js
+  180  cd ../
+  181  cd ../
+  182  npm install whatwg-fetch --save
+  183  npm install whatwg-fetch --save
+  184  npm fund <package>
+  185  npm install whatwg-fetch --save
+  186  npm fund
+  187  cd ravenous/ravenous/
+  188  yarn start
+  189  cd ../
+  190  yarn start
+  191  cd ravenous/
+  192  ls
+  193  yarn start
+  194  npm start
+  195  yarn start
+  196  yarn start
+  197  yarn start
+  198  yarn start
+  199  yarn start
+  200  rm -rf node_modules
+  201  npm install
+  202  yarn start
+  203  yarn start
+  204  ouch Yelp.js
+  205  cd ../
+  206  cd ../
+  207  npm install whatwg-fetch --save
+  208  npm install whatwg-fetch --save
+  209  npm fund <package>
+  210  npm install whatwg-fetch --save
+  211  npm fund
+  212  compass watch
+  213  compass watch
+  214  compass watch
+  215  compass watch
+  216  git status
+  217  git status
+  218  git branch tax-work
+  219  git checkout tax-work
+  220  git add .
+  221  git commit -m "Tax work"
+  222  git push origin tax-work
+  223  git status
+  224  cd il-cb-project/
+  225  git status
+  226  git branch tax-modal
+  227  git checkout tax-modal
+  228  git add .
+  229  git commit -m "Modal for Tax Tool"
+  230  git push origin tax-modal
+  231  git status
+  232  git branch tax-final
+  233  git checkout tax-final
+  234  git commit -m "Tax Tool pre-release"
+  235  git push origin tax-final
+  236  compass watch
+  237  compass watch
+  238  git pull
+  239  git status
+  240  git pull
+  241  git status
+  242  git branch lp-styles
+  243  git checkout lp-styles
+  244  git add .
+  245  git commit -m "Adding new styles for covid page"
+  246  git push origin lp-styles
+  247  git pull
+  248  backstop init
+  249  backstop test
+  250  backstop test
+  251  cd ../
+  252  mkdir kentico
+  253  cd kentico/
+  254  npm create-react-app my-kontent-react-app
+  255  ls
+  256  npx create-react-app my-kontent-react-app
+  257  cd my-kontent-react-app/
+  258  npm install --save react-router-dom rxjs @kentico/kontent-delivery
+  259  npm start
+  260  cd kentico/my-kontent-react-app/
+  261  npm start
+  262  $ npm install @material-ui/core
+  263  npm install @material-ui/core
+  264  npm start
+  265  npm install @material-ui/icons
+  266  npm start
+  267  compass watch
+  268  gatsby new gatsby-ck
+  269  nvm install 10
+  270  gatsby new gatsby-ck
+  271  cd gatsby-ck/
+  272  gatsby develop
+  273  exit
+  274  exit
+  275  exit
+  276  git clone https://github.com/jamesqquick/netlify-gatsby-deploy.git
+  277  git status
+  278  git clone https://github.com/conye9980/gatsby-netlify-test.git
+  279  git clone https://github.com/jamesqquick/netlify-gatsby-deploy.git
+  280  git status
+  281  git init
+  282  git commit -m "1st"
+  283  git add .
+  284  git commit -m "1st"
+  285  git push
+  286  git push origin master
+  287  git remote add origin https://github.com/conye9980/gatsby-netlify-test.git
+  288  git push origin master
+  289  git status
+  290  npm install --global gatsby-cli
+  291  gatsby new gatsby-ck https://github.com/conye9980/gatsby-netlify-test.git
+  292  node -v
+  293  nvm install 10
+  294  gatsby new gatsby-ck https://github.com/conye9980/gatsby-netlify-test.git
+  295  npm install --global gatsby-cli
+  296  gatsby new gatsby-ck https://github.com/conye9980/gatsby-netlify-test.git
+  297  cd gatsby-ck/
+  298  gatsby develop
+  299  git status
+  300  npm start
+  301  clear
+  302  cd ../
+  303  exit
+  304  exit
+  305  git status
+  306  git add .
+  307  git commit -m "Gatsby"
+  308  git push origin master
+  309  npm install
+  310  git status
+  311  npm build
+  312  clear
+  313  npm install -g gatsby-cli
+  314  gatsby new ck-netlify
+  315  ls
+  316  gatsby new ck-netlify
+  317  node -v
+  318  nvm node 10
+  319  node -v
+  320  npm install nodejs
+  321  node -v
+  322  gatsby new ck-netlify
+  323  nvm install 10
+  324  gatsby new ck-netlify
+  325  cd ck-netlify/
+  326  npm install gatsby-cli --save
+  327  gatsby develop
+  328  exitexit
+  329  exit
+  330  exit
+  331  exit
+  332  exit
+  333  exit
+  334  gatsby new kk-test
+  335  cd kk-test/
+  336  npm install @kentico/gatsby-source-kontent
+  337  gatsby develop
+  338  gatsby develop
+  339  gatsby develop
+  340  gatsby develop
+  341  clear
+  342  gatsby develop
+  343  gatsby develop
+  344  git init
+  345  git remote add origin https://github.com/conye9980/gatsby-blog.git
+  346  git add .
+  347  git status
+  348  git commit -m "Initial Commit"
+  349  git push origin master
+  350  netlify init
+  351  git commit -m "fix disable feed plugin"
+  352  git add .
+  353  git push origin master
+  354  git status
+  355  git commit -m "Fix to disable feed plugin"
+  356  git push origin master
+  357  cd gts/
+  358  npm i rxjs --save
+  359  npm i @kentico/kontent-management --save
+  360  gatsby new gatsby-theme-sky-lite-starter https://github.com/vim-labs/gatsby-theme-sky-lite-starter
+  361  cd gatsby-theme-sky-lite-starter/
+  362  gatsby develop
+  363  npm install @material-ui/icons
+  364  node -v
+  365  cd ck-netlify/
+  366  git init
+  367  git add .
+  368  git commit -m "First commit"
+  369  git remote add origin https://github.com/conye9980/ck-netlify.git
+  370  git remote -v
+  371  git push -u origin master
+  372  git commit -m "Changing h1"
+  373  git push origin master
+  374  git status
+  375  git add .
+  376  git commit -m "Changing H1"
+  377  git push origin master
+  378  npm install @material-ui/core
+  379  npm start
+  380  gatsby develop
+  381  gatsby build
+  382  nvm alias default 10
+  383  gatsby develop
+  384  node -v
+  385  nvm install 10
+  386  node -v
+  387  gatsby develop
+  388  git status
+  389  git branch master
+  390  git checkout master
+  391  git pull
+  392  git pull origin master
+  393  git fetch --all
+  394  git reset --hard origin/master
+  395  git status
+  396  git branch dev1
+  397  git checkout dev1
+  398  git add .
+  399  git status
+  400  git commit -m "Changing the title and contact info"
+  401  git push origin dev1
+  402  git branch bio-work
+  403  git checkout bio-work
+  404  git add .
+  405  git commit -m "Add <br> to bio"
+  406  git push origin bio-work
+  407  npm install @material-ui/core
+  408  git status
+  409  git branch testing
+  410  git checkout testing
+  411  git add .
+  412  git commit -m "testing to show Kevin"
+  413  git push origin testing
+  414  git status
+  415  git branch subsite
+  416  git checkout subsite
+  417  git add .
+  418  git commit -m "Adding subsite in HTML"
+  419  git push origin subsite
+  420  gatsby new . gatsbyjs/gatsby-starter-blog
+  421  npm install --save gatsby-source-kentico-cloud
+  422  gatsby develop
+  423  gatsby develop
+  424  npm install --save gatsby-source-kentico-cloud
+  425  gatsby develop
+  426  gatsby new . gatsbyjs/gatsby-starter-blog
+  427  mkdir gts
+  428  cd gts
+  429  gatsby new . gatsbyjs/gatsby-starter-blog
+  430  npm install --save gatsby-source-kentico-cloud
+  431  gatsby develop
+  432  gatsby develop
+  433  gatsby develop
+  434  gatsby develop
+  435  gatsby develop
+  436  gatsby develop
+  437  gatsby develop
+  438  gatsby develop
+  439  gatsby develop
+  440  gatsby develop
+  441  gatsby develop
+  442  gatsby develop
+  443  gatsby develop
+  444  gatsby develop
+  445  gatsby develop
+  446  gatsby develop
+  447  gatsby develop
+  448  gatsby develop
+  449  gatsby develop
+  450  gatsby develop
+  451  gatsby build
+  452  git pull
+  453  git pull origin master
+  454  gatsby develop
+  455  gatsby develop
+  456  gatsby develop
+  457  gatsby develop
+  458  git clone https://github.com/conye9980/gatsby-react-boilerplate.git
+  459  git status
+  460  gatsby develop
+  461  npm install
+  462  gatsby develop
+  463  gatsby develop
+  464  gatsby develop
+  465  clear
+  466  gatsby develop
+  467  git init
+  468  git add .
+  469  git commit -m "First commit"
+  470  git remote add origin https://github.com/conye9980/react-bootcamp.git
+  471  git push -u origin master
+  472  npm start
+  473  quit
+  474  npm install babel-preset-es2015
+  475  git pull
+  476  git pull origin master
+  477  git status
+  478  git branch megamenu-style
+  479  git checkout megamenu-style
+  480  git add .
+  481  git commit -m "Style changes to font awesome stacked icons"
+  482  git push origin megamenu-style
+  483  compass watch
+  484  git clone https://github.com/Kentico/kontent-sample-app-react.git
+  485  ls
+  486  cd kontent-sample-app-react/
+  487  npm install
+  488  npm start
+  489  quit
+  490  npm start
+  491  clear
+  492  cd ../
+  493  npx create-react-app react_crash_todo
+  494  npx create-react-app .
+  495  npm rm -g create-react-app
+  496  npm install -g create-react-app
+  497  npx create-react-app .
+  498  npm start
+  499  cd ../
+  500  yarn create react-app react_todo
+  501  history > history.txt
